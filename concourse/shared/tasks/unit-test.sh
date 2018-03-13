@@ -3,4 +3,4 @@
 set -xe
 
 cd git-repo
-mvn test
+#mvn test
